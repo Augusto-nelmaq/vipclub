@@ -156,7 +156,7 @@ const Login = () => {
 				</form>
 			
 			</div>
-			<Box mt={8}><Copyright /></Box>
+			<Box><Copyright />ChatFacil 2024</Box>
 		</Container>
 		</div>
 	);
